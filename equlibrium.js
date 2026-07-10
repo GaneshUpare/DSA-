@@ -1,4 +1,4 @@
-let arr=[1,3,5,2,2]
+let arr=[1,3,3,7,5,2]
 
 
 let total_sum=0
